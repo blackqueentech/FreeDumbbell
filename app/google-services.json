@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "949296962005",
+    "firebase_url": "https://free-dumbbell.firebaseio.com",
+    "project_id": "free-dumbbell",
+    "storage_bucket": "free-dumbbell.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949296962005:android:926fc6d22b11f8d4",
+        "android_client_info": {
+          "package_name": "com.example.dellaanjeh.freedumbbell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949296962005-hfl9jhvtiq1po4g2jjrn71orc3ekuhjo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz36nMf36wkO6stm4b-1UuW4nvmuqpwgg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
